@@ -14,6 +14,7 @@ Vagrant.configure("2") do |config|
   end
   config.vm.network :forwarded_port, host: 9090, guest: 8080, auto_correct: true
   config.ssh.username = "ie0521"
+  config.ssh.insert_key = false
   config.ssh.forward_agent = true
   config.ssh.pty = true
   config.vm.synced_folder ".", "/home/ie0521/ws"

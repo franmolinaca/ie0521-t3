@@ -1,0 +1,11 @@
+
+* Starting simulation of ORPSoC RTL.
+* Test: main
+
+* VCD in ../out/main.vcd
+
+VCD info: dumpfile ../out/main.vcd opened for output.
+Or1200 IC enabled at 138090.00 ns
+Or1200 DC enabled at 176230.00 ns
+Addition of numbers is : 11 
+exit(0)

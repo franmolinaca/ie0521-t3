@@ -1,0 +1,1 @@
+{"docker":{"b5eb212235":{"guestpath":"/home/ie0521/ws","hostpath":"/var/lib/docker/docker_1467837540_16381","disabled":false,"__vagrantfile":true,"docker_guestpath":"/home/ie0521/ws","docker_sfid":"b5eb21b280a686fe4923934861becc91","docker_host_sfid":"d2d7bf3f-f2b3-4d55-b5ad-36ee580a5a5c","id":"b5eb212235","virtualbox__transient":true,"hostpath_exact":true,"type":"docker"}}}
